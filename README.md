@@ -1,7 +1,7 @@
 
 <!-- Header animé -->
-!alt
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=$+whoami;Corentin+Mahieu;echo+
+<img src="[URL](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=$+whoami;Corentin+Mahieu;echo+
+)">
 
 
 
