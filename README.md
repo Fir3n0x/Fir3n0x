@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<!-- Bannière animée -->
+<!-- Bannière animée 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Salut+%F0%9F%91%8B+Moi+c
 
 ---
@@ -58,4 +58,4 @@ Here are some ideas to get you started:
 | **Cybersecurity Toolkit** | Scripts pour pentesting | Voir le repo |
 
 ---
-
+-->
