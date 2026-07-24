@@ -1,6 +1,4 @@
-## Hi there 👋
-
-I'm **Fir3n0x**, a software engineer by training who gradually shifted towards offensive security, which is now my main field. I currently work as a red teamer / malware developer, focused on C2 tradecraft, hardware security and abusing trusted attack surfaces (browser extensions...).
+Hi, I'm **Fir3n0x**, a software engineer by training who gradually shifted towards offensive security, which is now my main field. I currently work as a red teamer / malware developer, focused on C2 tradecraft, hardware security and abusing trusted attack surfaces (browser extensions...).
 
 I write about vulnerabilities, offensive tooling, and technical deep-dives on my blog.
 
@@ -28,10 +26,10 @@ Feel free to reach out on Twitter/X or LinkedIn.
 
 ## Focus areas
 
-- 🛡️ Red teaming & offensive tooling
-- 🧬 Malware development (Windows, C, Go)
-- 🌐 Browser extension attack surface (fileless persistence, injection without the store)
-- 🔍 Hardware security & vulnerability research
+- Red teaming & offensive tooling
+- Malware development (Windows, C, Go)
+- Browser extension attack surface (fileless persistence, injection without the store)
+- Hardware security & vulnerability research
 
 ## Published talks
 
