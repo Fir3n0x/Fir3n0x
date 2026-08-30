@@ -37,7 +37,6 @@ Feel free to reach out on Twitter/X or LinkedIn.
 | Date | Conference/Venue | Presentation |
 | :--: | :--------------: | ------------ |
 | June 20th | Beerump | [Extension malveillante, zéro fichier malveillant. Normal.](https://fir3n0x.github.io/posts/beerump-gap-ghost-anchor-persistence/) |
-| :--: | :--------------: | ------------ |
 | August 29th | Barbhack | [Weaponizing Browser Extensions - C2 Agent Injection and Fileless Persistence in Chromium](https://fir3n0x.github.io/posts/Barbhack2026/) |
 
 ## Selected writeups
